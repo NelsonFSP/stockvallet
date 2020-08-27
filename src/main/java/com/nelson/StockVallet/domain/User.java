@@ -1,4 +1,4 @@
-package com.nelson.workshopmongo.domain;
+package com.nelson.StockVallet.domain;
 
 public class User {
 	private String id;
